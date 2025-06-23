@@ -1,0 +1,1 @@
+This Bicep tempalte deploys an Azure Storage Account with a Virtual Network (VNet) integration. The storage account is configured to allow access only from the specified VNet and subnets.

@@ -1,0 +1,1 @@
+This Bicep template, deploys the necessary Azure Front Door (AFD) configuration for portal workspaces.
