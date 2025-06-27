@@ -1,1 +1,1 @@
-This Bicep deployment will deploy an API configuration to the SCE API Management (APIM) service.
+Creates deployment artifacts for SCE APIs, including all logic required to deploy APIs to APIM, AKS, and api specific PaaS resources. These standardized templates follow common deployment patterns for SCE APIs in Azure and can be customized to meet the specific requirements of individual services.
