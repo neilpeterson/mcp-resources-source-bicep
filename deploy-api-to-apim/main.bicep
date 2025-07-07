@@ -1,11 +1,5 @@
-@allowed([
-  'apim-api-gateway-msft-lab'
-  'apim-api-gateway-uat'
-  'apim-api-gateway-ppe'
-  'apim-api-gateway-prd'
-])
-param apimInstanceName string
 
+param apimInstanceName string
 param apiBackendUrl string
 param apiName string
 param apiDisplayName string
