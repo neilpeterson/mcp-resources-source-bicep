@@ -23,10 +23,10 @@ var routingSuffix = [
 @export()
 var ruleSets = [
   {
-    name:       'JSFilesPath'
+    name: 'JSFilesPath'
     rules: [
-      {        
-        name:   'AppendJSFilesFolder'
+      {
+        name: 'AppendJSFilesFolder'
         config: {
           order: 0
           conditions: []
@@ -41,9 +41,9 @@ var ruleSets = [
               }
             }
           ]
-          matchProcessingBehavior: 'Continue'        
+          matchProcessingBehavior: 'Continue'
+        }
       }
-    }         
     ]
-  } 
+  }
 ]
